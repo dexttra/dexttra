@@ -14,7 +14,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div> 
+<div id="tools"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -31,8 +31,15 @@
 
 ### 🔗 Links :
 
+<div id="links">
+  <a href="https://vk.com/d_laliev">
+    <img src="https://icons8.com/icon/13977/vk-com" alt="VK"/>
+  </a>
+</div>
+
 
 <hr>
+
   
   
   
