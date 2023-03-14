@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/114468575/204333140-77d22b90-36da-48b0-8b3d-9f568df783fd.gif" width="500"/>
 </div>
+### :man_technologist: About Me :
 
 <hr>
 
