@@ -5,13 +5,13 @@
 
 <hr>
 
-## :man_technologist: About Me :
+## 👨‍💻 About Me :
 - 18 y.o
 - first-year student of the mathematics and computer science faculty
 
 <hr>
 
-## :hammer_and_wrench: Languages and Tools :
+## 🛠️ Languages and Tools :
 
 <div id="tools"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="50" height="50"/>
@@ -25,6 +25,7 @@
   
  ## 🎯 My Stats :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dlaliev&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlaliev)](https://github.com/anuraghazra/github-readme-stats)
   
   
 <hr>
