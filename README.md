@@ -13,14 +13,14 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div id="badges"> 
+<div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C#"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS"/>
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS"/> 
 </div>
+
   <hr>
   
  ### 🎯 My Stats :
