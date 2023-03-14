@@ -34,7 +34,7 @@
 
 <div id="links">
   <a href="https://vk.com/d_laliev">
-    <img src="" alt="VK"/>
+    <img src="https://icons8.ru/icon/13977/вконтакте" alt="VK"/>
   </a>
 </div>
 
