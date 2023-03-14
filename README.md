@@ -8,7 +8,6 @@
 ## :man_technologist: About Me :
 - 18 y.o
 - first-year student of the mathematics and computer science faculty
--
 
 <hr>
 
