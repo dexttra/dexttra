@@ -5,14 +5,14 @@
 
 <hr>
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 -
 -
 -
 
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div id="tools"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="50" height="50"/>
@@ -24,7 +24,7 @@
 
   <hr>
   
- ### 🎯 My Stats :
+ ## 🎯 My Stats :
   
   
 <hr>
