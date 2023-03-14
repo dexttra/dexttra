@@ -34,7 +34,7 @@
 
 <div id="links">
   <a href="https://vk.com/d_laliev">
-    <img src="https://icons8.ru/icon/13977/вконтакте" alt="VK"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacHoJSphcAQgWsloxokQPunM0uevwnSsLCw&usqp=CAU" alt="VK"/>
   </a>
 </div>
 
