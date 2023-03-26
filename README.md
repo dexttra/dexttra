@@ -36,9 +36,6 @@
   <a href="https://vk.com/d_laliev">
     <img src="https://img.icons8.com/color/256/vk-circled.png" alt="VK" width="50" height="50"/>
   </a>
-  <a href="https://codepen.io/dlaliev">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png" alt="Codepen" width="50" height="50"/>
-  </a>
 </div>
 
 
