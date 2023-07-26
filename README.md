@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" alt="drawing" width=36/>
+<img src="https://media.giphy.com/media/AMqCTHuCMFpM4/giphy.gif" alt="drawing" width=36/>
 
   
   
