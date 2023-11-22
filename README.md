@@ -33,7 +33,10 @@
     <img src="https://img.icons8.com/color/256/vk-circled.png" alt="VK" width="50" height="50"/>
   </a>
 </div>
+
+<div id="footer" align="center">
 <img src="https://media.tenor.com/pPtKViokf2oAAAAd/blue-lock-nagi-seishiro.gif" width="500"/>
+</div>
 
 
 <hr>
