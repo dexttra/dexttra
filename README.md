@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋</h1>
 <div id="header" align="center">
-  <img src="https://media.tenor.com/a2o1hs3Rt3YAAAAC/nagi-blue-lock.gif" width="500"/>
+  <img src="https://s5.gifyu.com/images/SRW2m.gif" width="500"/>
 </div>
 
 <hr>
@@ -9,7 +9,7 @@
 - 19 y.o
 - second-year student of the mathematics and computer science faculty
 
-<hr>
+<hr> 
 
 ## 🛠️ Languages and Tools :
 
@@ -17,13 +17,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="50" height="50"/>
 </div>
 
-  <hr>
-  
- ## 🎯 My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dlaliev&theme=dark&background=000000)](https://git.io/streak-stats)
+<hr>
+
+<div id="content" align="center">
+  <img src="https://images.gr-assets.com/hostedimages/1442472712ra/16240607.gif" width="500"/>
+</div> 
+
+<hr>
 
   
+ ## 🎯 My Stats :
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlaliev&theme=2077)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dlaliev&theme=2077)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dlaliev&theme=2077)
   
+
 <hr>
 
 ## 🔗 Links :
@@ -34,27 +42,7 @@
   </a>
 </div>
 
-<div id="footer" align="center">
-<img src="https://media.tenor.com/pPtKViokf2oAAAAd/blue-lock-nagi-seishiro.gif" width="500"/>
-</div>
-
-
 <hr>
-
-  
-  
-  
-  
-
-
-
-
-  
-  
-  
-  
-  
-  
 
 
 
