@@ -6,7 +6,7 @@
 <hr>
 
 ## 👨‍💻 About Me :
-- 18 y.o
+- 19 y.o
 - second-year student of the mathematics and computer science faculty
 
 <hr>
