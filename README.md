@@ -37,7 +37,7 @@
 ## 🔗 Links :
 
 <div id="links">
-  <a href="https://vk.com/voicesinmymind">
+  <a href="https://vk.com/trashybutcute">
     <img src="https://img.icons8.com/color/256/vk-circled.png" alt="VK" width="50" height="50"/>
   </a>
 </div>
