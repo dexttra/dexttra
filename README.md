@@ -19,9 +19,6 @@
 
 <hr>
 
-
-<hr>
-
   
  ## 🎯 My Stats :
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlaliev&theme=2077)
