@@ -19,9 +19,6 @@
 
 <hr>
 
-<div id="content" align="center">
-  <img src="https://images.gr-assets.com/hostedimages/1442472712ra/16240607.gif" width="500"/>
-</div> 
 
 <hr>
 
