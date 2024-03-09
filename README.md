@@ -1,9 +1,10 @@
 <h1 align="center">Hii 👋</h1>
 <div id="header" align="center">
-  <img src="https://s5.gifyu.com/images/SRW2m.gif" width="500"/>
+  <img src="https://github.com/dlaliev/dlaliev/assets/114468575/da98fba6-aeeb-4776-a7fc-0677af482ee3" width="500"/>
 </div>
 
 <hr>
+
 
 ## 👨‍💻 About Me :
 - 19 y.o
