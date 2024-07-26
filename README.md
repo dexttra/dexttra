@@ -1,4 +1,4 @@
-## Hey, Im Dextra! 
+### Hey, Im Dextra! 
 👨‍💻 About Me :  
 - third-year student of the applied mathematics and computer science faculty
 - Interested in C# and .NET development
