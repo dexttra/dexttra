@@ -1,6 +1,6 @@
 ### Hey, Im Dextra! 
 #### 👨‍💻 About Me :  
-- 👋 I'm third-year student of the applied mathematics and computer science faculty in the direction of data analysis and mathematical modeling.
+- 👋 I'm third-year student of the applied mathematics and computer science faculty.
 - 👀 I'm interested in C# and .NET development
 - 🌱 My goal is to find a job as a C# junior developer within a month  
 #### 🛠️ Tools :  
