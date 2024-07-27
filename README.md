@@ -1,8 +1,8 @@
 ### Hey, Im Dextra! 
 #### 👨‍💻 About Me :  
 - 👋 I'm third-year student of the applied mathematics and computer science faculty.
-- 👀 I'm interested in C# and .NET development
-- 🌱 My goal is to find a job as a C# junior developer within a month  
+- 👀 I'm interested in C# and .NET development.
+- 🌱 My goal is to find a job as a C# junior developer within a month.
 #### 🛠️ Tools :  
 ![C#](https://img.shields.io/badge/C%23-0078D7?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-0078D7?style=for-the-badge&logo=dotnet&logoColor=white)
