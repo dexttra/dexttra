@@ -2,7 +2,7 @@
 
 - ⚙️ I'm third-year student of the applied mathematics and computer science faculty.
 - 🌍 I'm interested in `C#` and `.NET`.
-- 🌱 I'm currently learning `Golang` 'Python'
+- 🌱 I'm currently learning `Golang` and `Python`
 ### 🛠️ Tools :  
 ![C#](https://img.shields.io/badge/C%23-0078D7?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-0078D7?style=for-the-badge&logo=dotnet&logoColor=white)
