@@ -1,4 +1,5 @@
-![s1](https://github.com/user-attachments/assets/7ab948d2-a606-4317-b753-ed5931950abd)
+<img src="https://github.com/user-attachments/assets/7ab948d2-a606-4317-b753-ed5931950abd" height="300">
+
 ### Hello there!
 
 - ⚙️ I'm third-year student of the applied mathematics and computer science faculty.
