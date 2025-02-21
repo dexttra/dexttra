@@ -3,13 +3,13 @@
 ### Hello there!
 
 - ⚙️ I'm third-year student of the applied mathematics and computer science faculty.
-- 🌍 I'm interested in `C#` and `.NET`.
-- 🌱 I'm currently learning `Golang` and `Python`
+- 🌍 I'm interested in backend development.
+- 🌱 I'm currently learning `Python` and machine learning.
 ### 🛠️ Tools :  
 ![C#](https://img.shields.io/badge/C%23-0078D7?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-0078D7?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-0078D7?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0078D7?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-0078D7?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0078D7?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=0078D7)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=0078D7)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=0078D7)
+![Matplolib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=0078D7)
